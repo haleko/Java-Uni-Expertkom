@@ -10,6 +10,7 @@ public class Runner {
 		
 		System.out.println(kofila.id);
 		System.out.println(milka.name);
+		System.out.println(milka.name);
 	}
 
 }
