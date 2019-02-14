@@ -17,6 +17,8 @@ public class RunnerZooList {
 		 
 		 List<String> wordsShorterThenFive = zooList.getStringShorterThenFive();
 		 zooList.pritnResults(wordsShorterThenFive);
+		 
+		 
 
 	}
 	
