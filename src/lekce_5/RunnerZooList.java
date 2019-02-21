@@ -13,7 +13,7 @@ public class RunnerZooList {
 		 animals.add("pes");
 		 animals.add("kralik");
 		 
-		ZooList zooList = new ZooList(animals);
+		ZooList zooList = new ZooList();
 		 
 		 List<String> wordsShorterThenFive = zooList.getStringShorterThenFive();
 		 zooList.pritnResults(wordsShorterThenFive);

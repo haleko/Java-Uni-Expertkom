@@ -7,10 +7,6 @@ public class ZooList {
 
 	private List<String> zvirata;
 	
-	public ZooLis(List<String> zvirata) {
-		super();
-		this.zvirata = zvirata;
-	}
 	
 	public List<String> getStringShorterThenFive(){
 	
